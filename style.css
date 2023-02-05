@@ -4,7 +4,14 @@
     box-sizing: border-box;
 }
 
+h2 {
+    font-family: 'Big Shoulders Display', cursive;
+}
 
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
 
 
 
