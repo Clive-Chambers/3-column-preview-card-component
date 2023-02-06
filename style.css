@@ -70,11 +70,32 @@ a.Learn {
     color: #000;
 }
 
+a#sedans {
+    color: hsl(31, 77%, 52%);
+}
+
 a.Learn:hover {
     background-color: rgba(255, 255, 255, 0);
     color: hsl(0, 0%, 95%);
     border: 1px solid #fff;
 }
+
+a#sedans {
+    color: hsl(31, 77%, 52%);
+}
+
+a#suvs {
+    color: hsl(184, 100%, 22%);
+}
+
+a#luxury {
+    color: hsl(179, 100%, 13%);
+}
+
+a#sedans:hover, a#suvs:hover, a#luxury:hover {
+    color: #fff;
+}
+
 
 .attribution { 
     font-size: 11px; 
